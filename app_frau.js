@@ -7,8 +7,8 @@ let bilder = [
     './bilder/frau/make_up_1.jpg',
     './bilder/frau/Nägel_1.jpg',
     './bilder/frau/outfit_1.jpg',
+    './bilder/frau/zimmer_1.jpg',
 ];
-
 
 let bilder2 = [
     './bilder/frau/schuh_2.jpg',
@@ -17,6 +17,7 @@ let bilder2 = [
     ' ./bilder/frau/make_up_2.jpg',
     ' ./bilder/frau/Nägel_2.jpg',
     ' ./bilder/frau/outfit_2.jpg',
+    ' ./bilder/frau/zimmer_2.jpg',
 ];
 
 let fotoButton1 = document.querySelector('#foto-button-1');

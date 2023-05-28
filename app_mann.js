@@ -4,7 +4,10 @@ let bilder = [
     './bilder/mann/handy_1.jpg',
     './bilder/mann/outfit_1.jpg',
     './bilder/mann/tier_1.jpg',
-    './bilder/mann/marke_1.jpg',
+    './bilder/mann/marke_1.png',
+    './bilder/mann/sport_1.jpg',
+    './bilder/mann/auto_1.jpg',
+    './bilder/mann/zimmer_1.jpg',   
 
 ]
 
@@ -12,8 +15,14 @@ let bilder = [
 let bilder2 = [
     './bilder/mann/handy_2.jpg',
     './bilder/mann/outfit_2.jpg',
-    './bilder/mann/tier_2.jpg'
-    './bilder/mann/tier_2.jpg'
+    './bilder/mann/tier_2.jpg',
+    './bilder/mann/marke_2.png',
+    './bilder/mann/sport_2.jpg',
+    './bilder/mann/auto_2.jpg',
+    './bilder/mann/zimmer_2.jpg',
+    
+   
+   
 
 ];
 
